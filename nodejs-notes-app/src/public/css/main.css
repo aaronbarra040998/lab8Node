@@ -1,0 +1,17 @@
+body {
+  background: #121212;
+}
+
+.logo {
+  width: 30%;
+}
+
+.bg-black {
+  background: #727272;
+}
+.navbar-expand-lg .navbar-collapse{
+  justify-content: space-around;
+}
+.userName{
+  margin-right: 50px;
+}
